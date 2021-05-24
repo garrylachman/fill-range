@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "to-regex-range": "^5.0.1",
-    "react-native-util": "^1.0.2",
+    "react-native-util": "^1.0.2"
   },
   "devDependencies": {
     "gulp-format-md": "^2.0.0",
